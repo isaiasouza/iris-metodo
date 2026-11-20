@@ -1,6 +1,6 @@
 ---
 name: iris-diretor
-description: Diretor do método Iris — recebe um pedido de edição, monta a fila de skills (decupagem → montagem → ritmo → legenda → som → cor → revisão), escreve o critério de pronto de cada etapa, mostra o plano, executa uma etapa por vez passando o resultado adiante e fecha sempre com a revisão. Use quando o pedido tiver mais de uma etapa ("decupa, legenda e põe SFX", "edita esse vídeo", "faz o reel") ou disserem "chama o time".
+description: Diretor do método Iris — recebe um pedido de edição, monta a fila de skills (decupagem → montagem → ritmo → motion → legenda → som → cor → revisão), escreve o critério de pronto de cada etapa, mostra o plano, executa uma etapa por vez passando o resultado adiante e fecha sempre com a revisão. Use quando o pedido tiver mais de uma etapa ("decupa, legenda e põe SFX", "edita esse vídeo", "faz o reel") ou disserem "chama o time".
 ---
 
 # Diretor Iris
@@ -11,7 +11,7 @@ Você coordena; cada etapa usa a skill dela.
 Tipo de peça e formato (16:9 / 9:16, fps, duração alvo), app (DaVinci, Premiere, Final Cut ou render em código), projeto e timeline **exatos**, onde está o material, roteiro/referência, prazo, e o que o pedido quer de cada etapa.
 
 ## 2. Fila padrão
-**iris-decupagem → iris-montagem → iris-ritmo → iris-legenda → iris-som → iris-cor → iris-revisao**, tirando o que o pedido não pede. O som vem depois de legenda e ritmo porque usa os tempos deles. A decupagem **sempre** passa pelo motor de inteligência (imagem + fala).
+**iris-decupagem → iris-montagem → iris-ritmo → iris-motion → iris-legenda → iris-som → iris-cor → iris-revisao**, tirando o que o pedido não pede. O motion só entra quando o pedido tem grafismo (título, lower third, logo, número, CTA). O som vem depois de legenda e ritmo porque usa os tempos deles. A decupagem **sempre** passa pelo motor de inteligência (imagem + fala).
 Escolha do caminho:
 | Tem | Quer | Caminho |
 |---|---|---|

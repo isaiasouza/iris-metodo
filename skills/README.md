@@ -11,6 +11,7 @@ O coração é o **motor de inteligência da Iris**: `EDICAO-IA/ferramentas/nota
 | `iris-motor` | rodar o motor de imagem direto (presets, filtros, exportar) |
 | `iris-montagem` | levar o corte para o DaVinci, Premiere ou Final Cut; montar por roteiro |
 | `iris-ritmo` | cortar na batida, speed ramp, transições |
+| `iris-motion` | título, lower third, logo, número e CTA animados (Remotion ou After Effects), ProRes 4444 com alfa |
 | `iris-som` | SFX no frame do evento e trilha |
 | `iris-legenda` | legenda palavra a palavra no padrão Iris |
 | `iris-cor` | look e correção de cor |

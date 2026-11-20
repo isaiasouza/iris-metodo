@@ -16,6 +16,7 @@ Roda no seu Mac, offline, sem crédito de IA, e explica cada decisão.
 | `iris-motor` | roda o motor de imagem direto |
 | `iris-montagem` | leva o corte para DaVinci, Premiere ou Final Cut, sem painel |
 | `iris-ritmo` | corte na batida, speed ramp, transições |
+| `iris-motion` | título, lower third, logo, número e CTA animados (Remotion ou After Effects), ProRes 4444 com alfa |
 | `iris-som` | SFX no frame do evento e trilha |
 | `iris-legenda` | legenda palavra a palavra (Normal, Destaque, Luxo) |
 | `iris-cor` | correção e look |
