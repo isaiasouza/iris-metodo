@@ -32,7 +32,7 @@ Na dúvida: Remotion para a primeira versão (rápido de revisar), AE quando pre
 - Prévia rápida: `--scale=0.5`; still de conferência: `npx remotion still <Comp> --frame=<n>`.
 
 ### After Effects
-- Conector MCP `higgsfield-use-after-effects` (`ae_do batch.run`, `ae_save_project`). O AE precisa estar aberto **pelo Isaias**; nunca abrir sozinho. Se o conector não responder, avise e siga pelo Remotion.
+- Conector MCP `higgsfield-use-after-effects` (`ae_do batch.run`, `ae_save_project`). O AE precisa estar aberto **pelo editor**; nunca abrir sozinho. Se o conector não responder, avise e siga pelo Remotion.
 - Projeto novo `MOTION - <trabalho> vN.aep` em `analise/<trabalho>/motion/`, nunca por cima do anterior. Comp por peça, 24 fps, tamanho da timeline.
 - Receitas que funcionam: revelar texto letra a letra com animator (Opacity 0 + Blur + Position Y, Range Selector com ease); contador por expressão; filete com escala X a partir da borda; desenho de traço por Trim Paths; nuvem escura desfocada atrás do texto para legibilidade (limite a camada com um retângulo invisível para o bounding box não estourar).
 - Render: ProRes 4444 com alfa (Media Encoder ou fila do AE).
