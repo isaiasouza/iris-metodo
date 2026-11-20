@@ -1,0 +1,11 @@
+{
+  "pesos": {"foco": 0.35, "exposicao": 0.25, "estabilidade": 0.30, "movimento": 0.10},
+  "log": true,
+  "foco_piso_absoluto": 30.0,
+  "movimento_alvo": 0.02,
+  "movimento_tolerancia": 0.08,
+  "nota_min": 0.7,
+  "duracao_min_s": 3.0,
+  "duracao_max_s": 60.0,
+  "camera_comportamento": {"mao": "desfavorecer"}
+}

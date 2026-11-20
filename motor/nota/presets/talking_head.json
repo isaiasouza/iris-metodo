@@ -1,0 +1,4 @@
+{"pesos": {"foco": 0.40, "exposicao": 0.35, "estabilidade": 0.20, "movimento": 0.05},
+ "foco_modo": "regiao", "duracao_min_s": 3.0, "duracao_max_s": 60.0, "buraco_max_s": 1.0,
+ "camera_comportamento": {"parada": "preferir", "mao": "desfavorecer"},
+ "preferencias": {"estab_foco": 0.5, "flicker": 0.4, "camera": 0.5}}

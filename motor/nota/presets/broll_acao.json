@@ -1,0 +1,8 @@
+{
+  "pesos": {"foco": 0.30, "exposicao": 0.25, "estabilidade": 0.10, "movimento": 0.35},
+  "tremor_max": 0.15,
+  "movimento_alvo": 0.06,
+  "movimento_tolerancia": 0.06,
+  "duracao_min_s": 1.5,
+  "flags": {"tremido": "desfavorecer"}
+}

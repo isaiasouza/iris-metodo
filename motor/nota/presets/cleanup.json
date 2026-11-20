@@ -1,0 +1,3 @@
+{"cor_marcador": "fixa", "nota_min": 1.01, "nota_max": 1.0, "duracao_min_s": 1.0, "buraco_max_s": 1.0, "foco_piso_absoluto": 0.0,
+ "flags": {"blur": "forcar", "blur_movimento": "forcar", "tremido": "forcar", "estourado": "forcar",
+           "esmagado": "forcar", "pouca_luz": "forcar", "quadro_duplicado": "ignorar", "cor_solida": "forcar"}}

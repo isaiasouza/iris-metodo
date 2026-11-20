@@ -1,0 +1,12 @@
+{
+    "pesos": {"foco": 0.60, "exposicao": 0.20, "estabilidade": 0.13, "movimento": 0.07},
+    "foco_modo": "regiao",
+    "nota_min": 0.8,
+    "buraco_max_s": 3.0,
+    "duracao_min_s": 2.0,
+    "duracao_max_s": 600.0,
+    "flags": {"blur": "ignorar", "blur_movimento": "ignorar", "tremido": "ignorar", "esmagado": "ignorar",
+              "pouca_luz": "ignorar", "quadro_duplicado": "ignorar", "estourado": "excluir", "cor_solida": "excluir"},
+    "preferencias": {"nitidez": 0.5, "detalhe": 0.3, "estab_foco": 0.4, "folga_cor": 1.0, "flicker": 0.2,
+                     "camera": 0.4, "estab_movimento": 0.6}
+}

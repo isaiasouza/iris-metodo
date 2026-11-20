@@ -1,0 +1,4 @@
+{"pesos": {"foco": 0.40, "exposicao": 0.30, "estabilidade": 0.30, "movimento": 0.0}, "tremor_max": 0.04,
+ "camera_comportamento": {"mao": "excluir", "pan_esq": "excluir", "pan_dir": "excluir", "tilt_cima": "excluir",
+                          "tilt_baixo": "excluir", "push_in": "excluir", "pull_out": "excluir", "rotacao": "excluir"},
+ "preferencias": {"camera": 1.0}}

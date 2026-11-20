@@ -1,0 +1,3 @@
+{"pesos": {"foco": 0.25, "exposicao": 0.20, "estabilidade": 0.10, "movimento": 0.45},
+ "tremor_max": 0.2, "movimento_alvo": 0.08, "movimento_tolerancia": 0.08, "duracao_min_s": 1.0, "duracao_max_s": 10.0,
+ "flags": {"blur_movimento": "ignorar", "tremido": "desfavorecer"}, "preferencias": {"assunto": 0.8}}

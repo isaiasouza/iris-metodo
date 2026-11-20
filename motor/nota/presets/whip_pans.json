@@ -1,0 +1,5 @@
+{"pesos": {"foco": 0.10, "exposicao": 0.20, "estabilidade": 0.10, "movimento": 0.60},
+ "camera_vel_alvo": 0.12, "camera_vel_tolerancia": 0.1, "duracao_min_s": 0.5, "duracao_max_s": 4.0, "tremor_max": 0.2,
+ "flags": {"blur": "ignorar", "blur_movimento": "preferir", "tremido": "ignorar"},
+ "camera_comportamento": {"pan_esq": "preferir", "pan_dir": "preferir", "parada": "desfavorecer"},
+ "submetricas": {"movimento": {"assunto": 0.0, "camera": 1.0}}}

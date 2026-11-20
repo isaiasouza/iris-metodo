@@ -1,0 +1,7 @@
+{
+  "pesos": {"foco": 0.40, "exposicao": 0.35, "estabilidade": 0.20, "movimento": 0.05},
+  "movimento_alvo": 0.0,
+  "movimento_tolerancia": 0.05,
+  "duracao_min_s": 3.0,
+  "camera_comportamento": {"parada": "preferir", "mao": "desfavorecer"}
+}

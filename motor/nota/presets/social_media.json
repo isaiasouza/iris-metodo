@@ -1,0 +1,3 @@
+{"pesos": {"foco": 0.30, "exposicao": 0.25, "estabilidade": 0.15, "movimento": 0.30},
+ "movimento_alvo": 0.04, "movimento_tolerancia": 0.06, "duracao_min_s": 1.5, "duracao_max_s": 8.0,
+ "max_por_clipe": 3, "preferencias": {"assunto": 0.6, "contraste": 0.4}}

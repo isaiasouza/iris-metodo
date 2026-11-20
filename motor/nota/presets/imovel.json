@@ -1,0 +1,9 @@
+{
+  "pesos": {"foco": 0.25, "exposicao": 0.30, "estabilidade": 0.35, "movimento": 0.10},
+  "brilho_min": 0.22,
+  "brilho_max": 0.78,
+  "tremor_max": 0.06,
+  "movimento_alvo": 0.0,
+  "movimento_tolerancia": 0.10,
+  "camera_comportamento": {"mao": "desfavorecer"}
+}
